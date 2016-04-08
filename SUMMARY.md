@@ -14,7 +14,6 @@
    * [API](api.md)
    * [Render](render.md)
    * [Module](module.md)
-   * 核心
    * [Vender](vender.md)
 * 核心
    * Gulp
