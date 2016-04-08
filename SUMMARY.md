@@ -17,5 +17,5 @@
    * [Vender](vender.md)
 * [核心](he_xin.md)
    * [Gulp](gulp.md)
-   * EJS pre-load
+   * [EJS pre-load](ejs_pre-load.md)
 
