@@ -9,5 +9,5 @@
 * [基礎](ji_chu.md)
    * [Layout](layout.md)
    * [View](view.md)
-   * API
+   * [API](api.md)
 
