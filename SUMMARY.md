@@ -19,4 +19,5 @@
 * [核心](he_xin.md)
    * [Gulp](gulp.md)
    * [EJS pre-load](ejs_pre-load.md)
+* Other
 
