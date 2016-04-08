@@ -8,7 +8,6 @@
    * [展示](zhan_shi.md)
 * [基礎](ji_chu.md)
    * [UI](ui.md)
-   * [Layout](layout.md)
    * [View](view.md)
    * [API](api.md)
    * [CSS](css.md)
