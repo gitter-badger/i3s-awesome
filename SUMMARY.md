@@ -6,5 +6,5 @@
    * [架構](jia_gou.md)
    * [展示](zhan_shi.md)
 * [Introduction](README.md)
-* 基礎
+* [基礎](ji_chu.md)
 
