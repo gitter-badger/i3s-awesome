@@ -16,7 +16,7 @@
    * [Module](module.md)
    * [Vender](vender.md)
    * 範例：FBI API
-* 技巧
+* [技巧](ji_qiao.md)
    * [模組化](mo_zu_hua.md)
 * [核心](he_xin.md)
    * [Gulp](gulp.md)
