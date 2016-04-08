@@ -16,9 +16,9 @@
    * [Module](module.md)
    * [Vender](vender.md)
    * 範例：FBI API
+* 技巧
+   * 模組化
 * [核心](he_xin.md)
    * [Gulp](gulp.md)
    * [EJS pre-load](ejs_pre-load.md)
-* 技巧
-   * 模組化
 
