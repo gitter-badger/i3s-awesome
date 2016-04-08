@@ -18,7 +18,7 @@
    * 範例：FBI API
 * [技巧](ji_qiao.md)
    * [模組化](mo_zu_hua.md)
-   * 同步型 API
+   * [同步型 API](tong_bu_xing_api.md)
 * [核心](he_xin.md)
    * [Gulp](gulp.md)
    * [EJS pre-load](ejs_pre-load.md)
