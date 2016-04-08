@@ -10,4 +10,5 @@
    * [Layout](layout.md)
    * [View](view.md)
    * [API](api.md)
+   * Module
 
