@@ -8,5 +8,5 @@
    * [展示](zhan_shi.md)
 * [基礎](ji_chu.md)
    * [Layout](layout.md)
-   * View
+   * [View](view.md)
 
