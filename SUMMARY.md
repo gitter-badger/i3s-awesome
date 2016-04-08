@@ -7,12 +7,12 @@
    * [架構](jia_gou.md)
    * [展示](zhan_shi.md)
 * [基礎](ji_chu.md)
+   * [UI](ui.md)
    * [Layout](layout.md)
    * [View](view.md)
    * [API](api.md)
    * [CSS](css.md)
    * [範例：Todo List](fan_li_ff1a_todo_list.md)
-   * [UI](ui.md)
 * 進階
    * [Module](module.md)
 
