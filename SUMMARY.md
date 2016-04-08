@@ -4,7 +4,7 @@
    * [動機](dong_ji.md)
    * [必要能力](bi_yao_neng_li.md)
    * [架構](jia_gou.md)
-   * 展示
+   * [展示](zhan_shi.md)
 * [First Chapter](chapter1.md)
 * [Introduction](README.md)
 
