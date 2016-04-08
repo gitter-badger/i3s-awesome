@@ -15,6 +15,6 @@
    * [Render](render.md)
    * [Module](module.md)
    * [Vender](vender.md)
-* 核心
+* [核心](he_xin.md)
    * [Gulp](gulp.md)
 
